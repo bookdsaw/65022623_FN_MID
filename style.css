@@ -1,0 +1,136 @@
+*{
+    flex: auto;
+}
+.sty{
+    margin: 500px 500px;
+    border-image: 15%;
+}
+
+.boxbar{
+    margin: 10px;
+    background-color: rgb(154, 53, 236);
+    padding: 20px;
+
+}
+.main {
+    background-color: rgb(255, 255, 255);
+}
+p.styy{
+    color: rgb(255, 255, 255);
+}
+.bar {
+    color: rgb(255, 249, 249);
+    text-decoration: aliceblue;
+    background-color: rgb(154, 53, 236);
+    padding: auto;
+    font-size: medium;
+    
+}
+a {
+    margin: 16px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    background-image: url('logo.png');
+    background-size: cover;
+    display: inline-block;
+  }
+  .name {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  .img {
+    width: 491px;
+    height: 700px;
+    left: 240px;
+    top: 162px;
+    background-image: url('aa.jpg.jpg');
+    background-size: cover;
+    display: inline-block;
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 340px;
+  }  
+  .ing{
+    float: right;
+    text-align: center;
+  }
+  h1 {
+    padding-top: 300px;
+    padding-bottom: 0%;
+    text-align: center;
+  }
+
+
+
+  *{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    float: right;
+    margin-right: 600px;
+    margin-top: 0px;
+ }
+
+
+
+.text{
+    float: right;
+    margin-top: 565px;
+    margin-right: -250px;
+    
+
+}
+section{
+float: right;
+margin-top: 200px;
+margin-right: -150px;
+
+}
+button{
+    width: 400px;
+    height: 50px;
+    float: right;
+    margin-top: 400px;
+    margin-right: -290px;
+    
+}
+aside{
+    float: right;
+    margin-top: 250px;
+    margin-right: -200px;
+    
+
+}
+
+
+footer{
+    float: right;
+    margin-top: 500px;
+    margin-right: -250px;
+    
+
+}
+
+
+
+.imggo{
+
+    float: right;
+    margin-top: 550px;
+    margin-right: -100px
+}
+.map {
+    margin-left: 640px;
+    margin-top: 160px;
+}
+
+
+
+
